@@ -8,14 +8,14 @@ scikit-learn==1.2.2
 # Computer Vision and Image Processing
 opencv-python==4.7.0.72
 face_recognition==1.3.0
-mediapipe==0.10.0
-deepface==0.6.49
-imutils==0.5.4
+mediapipe
+deepface
+imutils
 
 # Deep Learning Frameworks
-torch==2.0.1
-torchvision==0.15.2
-tensorflow==2.12.0
+torch
+torchvision
+tensorflow
 
 # Additional Dependencies
 Pillow==9.5.0
